@@ -8,9 +8,15 @@ Curently home-manager managed
 - Hyprland
 - Wofi
 - Dunst
-- HYprpaper
+- Hyprpaper
 
 TODO
 ----
 - manage wlogout
 - manage wallpapers
+
+Github & System
+---------------
+- Neeten /etc/nixos/*
+- Upload /etc/nixos/*
+- Upload ~/.config/home-manager/*
