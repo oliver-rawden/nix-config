@@ -20,3 +20,4 @@ Github & System
 - Neeten /etc/nixos/*
 - Upload /etc/nixos/*
 - Upload ~/.config/home-manager/*
+- Auto Rsunc config files to server
